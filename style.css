@@ -1,0 +1,185 @@
+/*======================================================== navbar start======================================================== */
+.navbar-nav .nav-link {
+  color: #28a745 !important; /* Custom Green */
+}
+.navbar-nav .nav-link:hover {
+  color: #218838 !important; /* Darker Green on Hover */
+}
+
+.navbar .btn {
+  font-size: 18px; /* Bigger text */
+  font-weight: bold; /* Bold text */
+  padding: 2px 5px; /* Larger button */
+  border-radius: 25px; /* Rounded shape */
+  box-shadow: 0px 4px 8px rgba(0, 128, 0, 0.4); /* Green glow effect */
+}
+.navbar .btn:hover {
+  background-color: #218838 !important; /* Darker green on hover */
+}
+
+.navbar {
+  background: transparent;
+  transition: background 0.3s ease-in-out;
+}
+.navbar.scrolled {
+  background: rgba(0, 0, 0, 0.8);
+}
+/*===================================================== navbar  ends ===================================================================== */
+.bannerBgImage {
+  background-color: black; /* Optional background color */
+  padding: 50px 0;
+  height: 100vh; /* Make the section full screen height */
+  display: flex;
+  align-items: center; /* Centers content vertically */
+  position: relative;
+}
+.bannerBgImage1 {
+  width: 400px; /* Adjust size as needed */
+  height: auto;
+  display: block;
+  margin: 80px auto 0 auto;
+  float: right; /* Position the image to the right */
+  border-radius: 40px; /* Adds subtle rounding to corners */
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  margin-left: 700px; /* Add space to the left of the image */
+}
+
+.bannerText {
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.bannerTitle {
+  font-size: 4rem;
+  color: white;
+}
+.bannerTitle2 {
+  font-size: 4rem;
+  color: blue;
+}
+/*----------------------------Banner Image End-----------------*/
+/*----------------------------About Me Start------------------*/
+
+.AboutVasu {
+  background-color: white;
+}
+.Abouthed {
+  text-align: left;
+  font-size: 3rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: blue;
+  margin: 20px 0;
+}
+.paragraph {
+  text-align: left;
+  font-size: 2rem;
+  color: black;
+  /* font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; */
+  margin: 20px 0;
+}
+.Abouthed1 {
+  text-align: center;
+  font-size: 2rem;
+  /* font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; */
+  color: black;
+  margin: 20px 0;
+}
+.paragraph1 {
+  text-align: left;
+  font-size: 2rem;
+  color: black;
+  /* font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; */
+  margin: 20px 0;
+}
+.clg {
+  text-align: left;
+  font-size: 1.5rem;
+  color: black;
+  margin: 20px 0;
+  /* font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; */
+}
+.paragraph2 {
+  text-align: left;
+  font-size: 2rem;
+  color: black;
+  /* font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; */
+  margin: 20px 0;
+}
+.clg2 {
+  text-align: left;
+  font-size: 1.5rem;
+  color: black;
+  margin: 20px 0;
+  /* font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; */
+}
+/*===========================About Me end======================*/
+
+/*-----------------------------Contacts Start---------------*/
+.con {
+  text-align: left;
+  font-size: 4rem;
+  color: blue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.paracon {
+  text-align: center;
+  font-size: 5rem;
+  color: black;
+}
+.emailcom {
+  text-align: center;
+  font-size: 5rem;
+  color: black;
+}
+.orcon {
+  text-align: center;
+  font-size: 4rem;
+  color: black;
+}
+.numcon {
+  text-align: center;
+  font-size: 5rem;
+  color: black;
+}
+
+/*--------------------------------------Technologies Start-----------*/
+.texttec {
+  text-align: left;
+  color: blue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.paratec {
+  text-align: left;
+  font-size: 1rem;
+}
+
+/*-----------------------------Technologies End--------------------------------------------------------------*/
+
+/*=========================================== Coding Platforms start ===============================================================*/
+.textcod {
+  text-align: left;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: blue;
+}
+/* ===========================================Coding Platforms end===============================================================*/
+
+/*------------------------------------------ projects :start ----------------------------------------------------------*/
+
+.textpro {
+  text-align: left;
+  color: blue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+/*------------------------------------ project :end------------------------------------------------- */
+.para {
+  text-align: left;
+  font-size: 1rem;
+}
+.para1 {
+  text-align: left;
+  font-size: 1rem;
+}
